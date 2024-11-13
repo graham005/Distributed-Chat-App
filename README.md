@@ -7,6 +7,7 @@ This is a chat application built using Flutter and the ASP.NET API. It allows us
 
 1. **Clone the repository:**
    ```bash
+   fork repository
    git clone https://github.com/yourusername/chat-app.git
    cd chat-app
    ```
